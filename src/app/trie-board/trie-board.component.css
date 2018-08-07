@@ -1,0 +1,34 @@
+.example-card {
+    max-width: 70%; 
+    height: 70%;   
+}
+
+.example-card-one {
+  max-width: 90%;
+  height: 70%;
+}
+
+.example-card-four {
+  max-width: 85%;
+  height: 70%;
+}
+
+.text-center {
+  text-align: center;
+}
+
+.text-desc {
+  text-align: justify;
+  line-height: 25px;
+}
+
+.list-item {
+  height: 30px !important;
+}
+
+.desc {
+  margin: 0 8px;
+  line-height: 25px;
+  text-indent: 45px;
+  text-align: justify;
+}
